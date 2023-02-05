@@ -30,6 +30,7 @@ pip install pyttsx3
 
 打开cmd界面
 python story.py
+![图片](https://user-images.githubusercontent.com/4645963/216799121-f2e4bf23-81ee-48df-9802-2d9555d1c0f0.png)
 
 ## 须知
 
